@@ -1,0 +1,1267 @@
+fileFormatVersion: 2
+guid: bd35aae994b9f8742a956c390a68910d
+timeCreated: 1531465958
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: UISpritesheet_0
+    21300002: UISpritesheet_1
+    21300004: UISpritesheet_2
+    21300006: UISpritesheet_3
+    21300008: UISpritesheet_4
+    21300010: UISpritesheet_5
+    21300012: UISpritesheet_6
+    21300014: UISpritesheet_7
+    21300016: UISpritesheet_8
+    21300018: UISpritesheet_9
+    21300020: UISpritesheet_10
+    21300022: UISpritesheet_11
+    21300024: UISpritesheet_12
+    21300026: UISpritesheet_13
+    21300028: UISpritesheet_14
+    21300030: UISpritesheet_15
+    21300032: UISpritesheet_16
+    21300034: UISpritesheet_17
+    21300036: UISpritesheet_18
+    21300038: UISpritesheet_19
+    21300040: UISpritesheet_20
+    21300042: UISpritesheet_21
+    21300044: UISpritesheet_22
+    21300046: UISpritesheet_23
+    21300048: UISpritesheet_24
+    21300050: UISpritesheet_25
+    21300052: UISpritesheet_26
+    21300054: UISpritesheet_27
+    21300056: UISpritesheet_28
+    21300058: UISpritesheet_29
+    21300060: UISpritesheet_30
+    21300062: UISpritesheet_31
+    21300064: UISpritesheet_32
+    21300066: UISpritesheet_33
+    21300068: UISpritesheet_34
+    21300070: UISpritesheet_35
+    21300072: UISpritesheet_36
+    21300074: UISpritesheet_37
+    21300076: UISpritesheet_38
+    21300078: UISpritesheet_39
+    21300080: UISpritesheet_40
+    21300082: UISpritesheet_41
+    21300084: UISpritesheet_42
+    21300086: UISpritesheet_43
+    21300088: UISpritesheet_44
+    21300090: UISpritesheet_45
+    21300092: UISpritesheet_46
+    21300094: UISpritesheet_47
+    21300096: UISpritesheet_48
+    21300098: UISpritesheet_49
+    21300100: UISpritesheet_50
+    21300102: UISpritesheet_51
+    21300104: UISpritesheet_52
+    21300106: UISpritesheet_53
+    21300108: UISpritesheet_54
+    21300110: UISpritesheet_55
+    21300112: UISpritesheet_56
+    21300114: UISpritesheet_57
+    21300116: UISpritesheet_58
+    21300118: UISpritesheet_59
+    21300120: UISpritesheet_60
+    21300122: UISpritesheet_61
+    21300124: UISpritesheet_62
+    21300126: UISpritesheet_63
+    21300128: UISpritesheet_64
+    21300130: UISpritesheet_65
+    21300132: UISpritesheet_66
+    21300134: UISpritesheet_67
+    21300136: UISpritesheet_68
+    21300138: UISpritesheet_69
+    21300140: UISpritesheet_70
+    21300142: UISpritesheet_71
+    21300144: UISpritesheet_72
+    21300146: UISpritesheet_73
+    21300148: UISpritesheet_74
+    21300150: UISpritesheet_75
+    21300152: UISpritesheet_76
+    21300154: UISpritesheet_77
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UISpritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 653
+        width: 116
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 652
+        width: 115
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 606
+        width: 362
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 606
+        width: 362
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 604
+        width: 212
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 649
+        width: 14
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 662
+        width: 438
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 691
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 544
+        width: 156
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 510
+        width: 121
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 531
+        width: 441
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 619
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 526
+        width: 75
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 522
+        width: 74
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 526
+        width: 75
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 522
+        width: 78
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 523
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 529
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 528
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 529
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 531
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 508
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 547
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 509
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 509
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 492
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 492
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 338
+        width: 495
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 423
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 448
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 480
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 435
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 440
+        width: 14
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 454
+        width: 60
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 425
+        width: 180
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 384
+        width: 85
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 378
+        width: 123
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 391
+        width: 102
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 458
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 402
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 372
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 378
+        width: 121
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 416
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 332
+        width: 194
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 250
+        width: 151
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 330
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 396
+        width: 55
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 294
+        width: 67
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 308
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 319
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 303
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 260
+        width: 116
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 193
+        width: 140
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 241
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 240
+        width: 63
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 241
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 242
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 235
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 240
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 240
+        width: 70
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 235
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 240
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 235
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 235
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 179
+        width: 44
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 241
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 243
+        width: 101
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 195
+        width: 140
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 141
+        width: 86
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 45
+        width: 156
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 45
+        width: 156
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 45
+        width: 156
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 54
+        width: 495
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 180
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 142
+        width: 415
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 25
+        width: 140
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 25
+        width: 131
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UISpritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 36
+        width: 114
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
